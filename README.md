@@ -25,7 +25,7 @@ Feel free to explore, fork, or clone the repository to your local machine. You c
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/YourUsername/JS-Daily-Drills.git
+git clone https://github.com/Kartikk-26/JS-Daily-Drills.git
 ```
 
 ## 🛠️ Technologies Used
